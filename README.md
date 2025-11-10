@@ -32,14 +32,14 @@ Auto-generated Cucumber HTML and JSON reports for test visibility.
 🛠️ Tech Stack & Frameworks
 ---------------------------
 | Category	| Tools & Technologies	| Description |
----------------------------------------------------
-| BDD Automation	| Cucumber (Java)	| Behavior-driven test framework using Gherkin syntax. |
-| Automation Engine	| Selenium WebDriver	| Browser automation and functional validation. |
-| Test Runner	| TestNG	| Parallel execution and structured reporting. |
-| Build Tool	| Maven	| Dependency and project lifecycle management. |
-| CI/CD	| GitHub Actions	| Automated test runs on each code push. |
-| Reporting	| Cucumber HTML/JSON Reports	| Provides detailed pass/fail analytics and step tracking. |
-| Framework Design	| Page Object Model (POM)	| Ensures modularity, readability, and easy maintenance. |
+|---------------------------------------------------|
+| BDD Automation	  | Cucumber (Java)	            | Behavior-driven test framework using Gherkin syntax. |
+| Automation Engine	| Selenium WebDriver	        | Browser automation and functional validation. |
+| Test Runner	      | TestNG                    	| Parallel execution and structured reporting. |
+| Build Tool      	| Maven	                      | Dependency and project lifecycle management. |
+| CI/CD	            | GitHub Actions            	| Automated test runs on each code push. |
+| Reporting        	| Cucumber HTML/JSON Reports	| Provides detailed pass/fail analytics and step tracking. |
+| Framework Design	| Page Object Model (POM)	    | Ensures modularity, readability, and easy maintenance. |
 
 ----------------------------------------------------------------------------------------------
 
