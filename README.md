@@ -1,9 +1,7 @@
 🎓 Software Testing Capstone Project: Kerala Tourism Web Application (Cucumber + Java)
-
-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 
 🎯 Objective
-
 --------------
 
 To validate the functional, security, and performance aspects of the Kerala Tourism Website using Behavior-Driven Development (BDD) with Cucumber and Java, ensuring seamless end-to-end automation and human-readable test scenarios.
@@ -33,14 +31,15 @@ Auto-generated Cucumber HTML and JSON reports for test visibility.
 
 🛠️ Tech Stack & Frameworks
 ---------------------------
-Category	Tools & Technologies	Description
-BDD Automation	Cucumber (Java)	Behavior-driven test framework using Gherkin syntax.
-Automation Engine	Selenium WebDriver	Browser automation and functional validation.
-Test Runner	TestNG	Parallel execution and structured reporting.
-Build Tool	Maven	Dependency and project lifecycle management.
-CI/CD	GitHub Actions	Automated test runs on each code push.
-Reporting	Cucumber HTML/JSON Reports	Provides detailed pass/fail analytics and step tracking.
-Framework Design	Page Object Model (POM)	Ensures modularity, readability, and easy maintenance.
+| Category	| Tools & Technologies	| Description |
+---------------------------------------------------
+| BDD Automation	| Cucumber (Java)	| Behavior-driven test framework using Gherkin syntax. |
+| Automation Engine	| Selenium WebDriver	| Browser automation and functional validation. |
+| Test Runner	| TestNG	| Parallel execution and structured reporting. |
+| Build Tool	| Maven	| Dependency and project lifecycle management. |
+| CI/CD	| GitHub Actions	| Automated test runs on each code push. |
+| Reporting	| Cucumber HTML/JSON Reports	| Provides detailed pass/fail analytics and step tracking. |
+| Framework Design	| Page Object Model (POM)	| Ensures modularity, readability, and easy maintenance. |
 
 ----------------------------------------------------------------------------------------------
 
