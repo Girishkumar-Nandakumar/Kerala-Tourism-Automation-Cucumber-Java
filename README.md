@@ -67,6 +67,7 @@ Gherkin-based .feature files describing real-world user actions.
 🧾 Reports
 -----------
 🧪 HTML Report	Visual step-by-step execution summary	/target/cucumber-reports/cucumber.html
+
 📊 JSON Report	Machine-readable data for CI pipelines	/target/cucumber-reports/cucumber.json
 
 ----------------------------------------------------------------------------------------------
@@ -88,7 +89,9 @@ Gained exposure to CI/CD pipelines and reporting automation.
 -------------------
 
 📌 Successfully implemented end-to-end test automation using BDD principles.
+
 📌 Strengthened understanding of real-world QA and automation practices.
+
 📌 Improved team collaboration through readable, scenario-based testing.
 
 ----------------------------------------------------------------------------------------------
